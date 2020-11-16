@@ -1,0 +1,29 @@
+
+.header,
+.home-section,
+.section-title .title::before,
+.features-section .features-item:hover,
+.owl-theme .owl-nav [class*="owl-"],
+.testimonial-section::before
+{
+	background-color: #d70d25;
+}
+
+.mybtn1:hover,
+.mybtn1,
+.section-title .title,
+.about-section .about-content ul li i,
+.features-section .features-item .icon i,
+.products-section .product-content .product-price .new-price,
+.testimonial-section .client-info h5{
+	color: #d70d25;
+}
+
+.testimonial-section .client-info img{
+	border-color: #d70d25;
+}
+
+
+
+
+
